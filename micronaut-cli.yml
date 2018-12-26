@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: prop.test
+---
+testFramework: junit
+sourceLanguage: java
